@@ -39,7 +39,7 @@
 
 @end
 
-//#define AS_FIXED_CONFIG_JSON "{ \"version\" : 1, \"experimental_features\": [ \"exp_text_node\" ] }"
+#define AS_FIXED_CONFIG_JSON "{ \"version\" : 1, \"experimental_features\": [ \"exp_drawing_global\" ] }"
 
 #ifdef AS_FIXED_CONFIG_JSON
 
